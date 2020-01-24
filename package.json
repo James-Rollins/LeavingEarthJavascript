@@ -1,0 +1,22 @@
+{
+    "name": "leaving-earth",
+    "version": "1.0.0",
+    "description": "The electronic version of the card game.",
+    "main": "index.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/James-Rollins/LeavingEarthJavascript.git"
+    },
+    "author": "James Rollins",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/James-Rollins/LeavingEarthJavascript/issues"
+    },
+    "homepage": "https://github.com/James-Rollins/LeavingEarthJavascript#readme",
+    "devDependencies": {
+        "electron": "^7.1.10"
+    }
+}
