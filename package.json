@@ -17,6 +17,6 @@
     },
     "homepage": "https://github.com/James-Rollins/LeavingEarthJavascript#readme",
     "devDependencies": {
-        "electron": "^7.1.10"
+        "electron": "^11.5.0"
     }
 }
